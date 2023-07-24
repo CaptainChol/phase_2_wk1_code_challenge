@@ -8,7 +8,7 @@ function Header() {
         <div className="head">
           <div className="logo">
          </div>
-        <h1>The Uwezo Bank of Flatiron</h1>       
+        <h1>The Horizon Bank of Flatiron</h1>       
         </div>
         
       </>
