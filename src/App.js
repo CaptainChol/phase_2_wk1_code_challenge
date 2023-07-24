@@ -18,7 +18,7 @@ function App() {
   useEffect(() => {
 
     const fetcha = () =>{
-    fetch("http://localhost:3000/transactions?q=" + query)
+    fetch("http://localhost:3000/transactions/")
       .then((resp) => resp.json())
       .then(transaction => setTransaction(transaction)
                
