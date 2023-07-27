@@ -1,14 +1,14 @@
-# The Bank Flatron
+# The Horizon Bank of Flatron
 
 #### Created By Chol Marial on 24-07-2023
 
 ## Design Link
 
-[Github]
+[Github: git@github.com:CaptainChol/phase_2_wk1_code_challenge.git]
 
 ## Description
 
-The Uwezo Bank Flatron is a a website that provides a way to create, update, delete and retrieve transactions. 
+The Horizon of Bank Flatron is a a website that provides a way to create, update, delete and retrieve transactions. 
 
 ## Setup Requirements
 
@@ -32,19 +32,6 @@ The following have been used on this project:
 - useEffect and useState hooks
 
 
-
-
-#### Live link to view the project <a href="">View The Uwezo Bank Flatron</a>
-
-
-
-## Screenshots Of the the website
-
-- Homepage with Transaction Form page
-
-  <img src="./images/home.png" alt="screenshot" />
-
-
 ## Challanges
 
 one of the key challange faced is to Deploy this project on render
@@ -53,12 +40,12 @@ one of the key challange faced is to Deploy this project on render
 
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
 
-- Email: gefbii@gmail.com
+- Email: emmanuel.marial@student.moringa.com
 
 ## License
 MIT License
 
-Copyright (c) 2023 Geoffrey Bii
+Copyright (c) 2023 Chol Marial
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
